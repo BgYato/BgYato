@@ -1,9 +1,10 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Andres Yate</h1><br>
 <h3 align="center">A passionate backend developer from Colombia</h3><br><br>
-- 🔭 I’m currently working on <strong>OPT</strong><br><br>
+
 - 🌱 I’m currently learning <strong>Spring Bot, Python for Web Aplicattion.</strong><br><br>
-- 📫 How to reach me <strong>andresfyatem@gmail.com</strong>
+- 📫 How to reach me <strong>andresfyatem@gmail.com</strong> <br> <br>
+- 🔭 I’m currently working on: [OPT (Software Development)](https://github.com/FatFrogDev/opt)
 
 
 # 💻 Tech Stack:
