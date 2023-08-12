@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Andres Yate</h1><br>
 <h3 align="center">A passionate backend developer from Colombia</h3><br><br>
 
-- 🌱 I’m currently learning <strong>Spring Bot, Python for Web Aplicattion.</strong><br><br>
+- 🌱 I’m currently learning <strong>Spring Boot, Python for Web Aplication.</strong><br><br>
 - 📫 How to reach me <strong>andresfyatem@gmail.com</strong> <br> <br>
 - 🔭 I’m currently working on (**private repository**): [OPT (Software Development)](https://github.com/FatFrogDev/opt) <br><br>
 - ✔ I have a project developed in PHP (my first project in fact, with basic knowledge): [OTAVO (E-Commerce)](https://otavo.000webhostapp.com/)
