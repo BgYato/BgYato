@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Andres Yate</h1><br>
 <h3 align="center">A passionate backend developer from Colombia</h3><br><br>
 
-- 🌱 I’m currently learning <strong>Spring Boot, Python for Web Aplication.</strong><br><br>
+- 🌱 I’m currently learning <strong>Spring Boot,Spring Security and more about Java and similars!.</strong><br><br>
 - 📫 How to reach me <strong>andresfyatem@gmail.com</strong> <br> <br>
-- 🔭 I’m currently working on (**private repository**): [OPT (Software Development)](https://github.com/FatFrogDev/opt) <br><br>
+- 🔭 I’m currently working in **Globant CO** as a Java Developer Trainee: [LinkedIn Profile](https://www.linkedin.com/in/andres-felipe-yate-munoz-a177252a9/) <br><br>
+- 🔭 I’m working also in a project (**private repository**): [OPT (Software Development)](https://github.com/TexOne-OPT)<br><br>
 - ✔ I have a project developed in PHP (my first project in fact, with basic knowledge): [OTAVO (E-Commerce)](https://otavo.000webhostapp.com/)
 
 
